@@ -1,4 +1,4 @@
-## How to use this boileplate
+## How to Use
 
 `cd [your directory]`
 
