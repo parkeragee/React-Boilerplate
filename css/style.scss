@@ -1,3 +1,25 @@
+body, html {
+	height: 100%;
+}
+
 body {
-	background: #E9E9E9;
+	background: #F5F5F5;
+	text-align: center;
+}
+
+#main {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+}
+
+.container {
+	color: #D8D8D8;
+	font-size: 48px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 }

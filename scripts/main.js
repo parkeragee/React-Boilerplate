@@ -12,7 +12,7 @@ var App = React.createClass({
   render : function() {
     return (
       <div className="container">
-        Hello
+        React.js
       </div>
     )
   }
